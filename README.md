@@ -1,2 +1,2 @@
-# python-Numerical_Analysis
+# MATH 417 Numerical Analysis
 Projects for MATH 417 Numerical Analysis in python
