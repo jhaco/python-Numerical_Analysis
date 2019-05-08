@@ -1,0 +1,16 @@
+MACHINE PROBLEM 5: Due April 12, 2019
+
+Solve Problem 27 from section 6.6: page 413 (8th edition), page 428 (9th edition). 
+
+That means the following:
+
+(a) Write a code for the Crout Factorization Algorithm 6.7 for any given three diagonal matrix A, see the notation from the problem.
+
+(b) Find the solution of Ax=f using your code and print out your results for the following two cases
+
+
+Case 1. n=16, a_i=4, b_i=1, c_i=1, f_i=1, i=1,2,...,16
+
+Case 2. n=16, a_i=2014, b_i=4, c_i=10, f_i=14, i=1,2,...,16
+
+----------------------------------------------------------------------------------
