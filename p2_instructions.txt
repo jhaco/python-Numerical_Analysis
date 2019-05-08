@@ -1,0 +1,15 @@
+MACHINE PROBLEM 2: Due February 14, 2019
+
+1. Given f(x) at i/n, i=0,1,...,n, find the Lagrange polynomial L_n(x) interpolating 
+   f at the points {i/n | i=0,1,...,n}.
+
+2. Write a program which computes L_n(x) (at least 512 values in [0,1]) for n=4,8,16 
+   in the following two cases:
+
+   (a) f(x)= sin(2*pi*x)
+   (b) f(x)= |x-0.5|
+
+3. Turn in a program listing and four pictures, two for each case, where the original 
+   function f and the three Lagrange polynomials are drawn for x in the interval [0,1]. 
+   On the first picture display the function f and the Lagrange polynomials L_4 and L_8. 
+   On the second picture display f and L_16.
