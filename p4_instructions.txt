@@ -1,0 +1,11 @@
+MACHINE PROBLEM 4: Due March 28, 2019
+
+For the problem y'=y-4*t*t + 1, y(0)=1.0, and t in the interval [0,1]
+
+(a) Find the exact solution;
+
+(b) Describe Euler, Modified Euler, and Runge-Kutta Order Four methods;
+
+(c) Print out in a table your results for all methods with h=0.05.
+Use the format given in Table 5.8 on page 283 but replace the values 
+of the numerical methods with the errors.
