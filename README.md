@@ -4,7 +4,6 @@
 * project 1: Fixed-Point Iteration Method
   * [instructions](p1_instructions.txt)
   * [source](project1.py)
-  
 * project 2: Lagrange Polynomial Interpolation
   * [instructions](p2_instructions.txt)
   * [source](project2.py)
