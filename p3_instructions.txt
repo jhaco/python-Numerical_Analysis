@@ -1,0 +1,11 @@
+MACHINE PROBLEM 3: Due February 28, 2019
+
+1. Use Midpoint, Trapezoidal and Simpson's Rules with 8 sub-intervals to approximate 
+the integral of sin(x) on [0,2]. 
+
+2. Use Gaussian Quadratures with 3, 4 and 5 points to approximate the same integral.
+
+3. Turn in a program listing and a table where the different approximations and 
+their errors (compare with the exact value of the integral).
+
+Note that you have to use 8 points for the Midpoint but 9 for the Trapezoidal and Simpson's.
