@@ -6,8 +6,7 @@
   * [source](project1.py)
 * project 2: Lagrange Polynomial Interpolation
   * [details](p2_instructions.txt)
-  * [source](project2.py)
-  * [graph 1](test_p2_opt1.png), [graph 2](test_p2_opt2.png), [graph 3](test_p2_opt3.png), [graph 4](test_p2_opt4.png)
+  * [source](project2.py) and [graph 1](test_p2_opt1.png), [graph 2](test_p2_opt2.png), [graph 3](test_p2_opt3.png), [graph 4](test_p2_opt4.png)
 * project 3: Midpoint, Trapezoidal and Simpson's Approximation and Gaussian Quadrature 3, 4, 5
   * [details](p3_instructions.txt)
   * [source](project3.py)
