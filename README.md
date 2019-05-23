@@ -6,6 +6,7 @@ project 1: Fixed-Point Iteration Method
 [details](p1_instructions.txt) 
 
 [source](project1.py)
+
 ---
 * project 2: Lagrange Polynomial Interpolation
   * [:pencil:](p2_instructions.txt) [:hammer:](project2.py) [:chart_with_upwards_trend:](test_p2_opt1.png) [:chart_with_upwards_trend:](test_p2_opt2.png) [:chart_with_upwards_trend:](test_p2_opt3.png) [:chart_with_upwards_trend:](test_p2_opt4.png)
