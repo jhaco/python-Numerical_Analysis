@@ -2,7 +2,9 @@
 ###### Projects for MATH 417 Numerical Analysis in python
 ---
 project 1: Fixed-Point Iteration Method
+
 [details](p1_instructions.txt) 
+
 [source](project1.py)
 ---
 * project 2: Lagrange Polynomial Interpolation
