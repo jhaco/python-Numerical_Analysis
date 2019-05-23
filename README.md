@@ -8,8 +8,20 @@ project 1: Fixed-Point Iteration Method
 [source](project1.py)
 
 ---
-* project 2: Lagrange Polynomial Interpolation
-  * [:pencil:](p2_instructions.txt) [:hammer:](project2.py) [:chart_with_upwards_trend:](test_p2_opt1.png) [:chart_with_upwards_trend:](test_p2_opt2.png) [:chart_with_upwards_trend:](test_p2_opt3.png) [:chart_with_upwards_trend:](test_p2_opt4.png)
+project 2: Lagrange Polynomial Interpolation
+
+[details](p2_instructions.txt) 
+
+[source](project2.py) 
+
+[graph (option 1)](test_p2_opt1.png) 
+
+[graph (option 2)](test_p2_opt2.png) 
+
+[graph (option 3)](test_p2_opt3.png) 
+
+[graph (option 4)](test_p2_opt4.png)
+
 ---
 * project 3: Midpoint, Trapezoidal and Simpson's Approximation and Gaussian Quadrature 3, 4, 5
   * [:pencil:](p3_instructions.txt) [:hammer:](project3.py)
