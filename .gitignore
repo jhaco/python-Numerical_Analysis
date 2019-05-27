@@ -3,3 +3,5 @@
 
 # Exceptions
 !.py
+
+# note: files added before .gitignore commit won't be ignored.
