@@ -23,11 +23,22 @@ project 2: Lagrange Polynomial Interpolation
 [graph (option 4)](test_p2_opt4.png)
 
 ---
-* project 3: Midpoint, Trapezoidal and Simpson's Approximation and Gaussian Quadrature 3, 4, 5
-  * [:pencil:](p3_instructions.txt) [:hammer:](project3.py)
+project 3: Midpoint, Trapezoidal and Simpson's Approximation and Gaussian Quadrature 3, 4, 5
+
+[details](p3_instructions.txt) 
+
+[source](project3.py)
+
 ---
-* project 4: Euler, Modified Euler, and Runge-Kutta Order Four Approximation
-  * [:pencil:](p4_instructions.txt) [:hammer:](project4.py)
+project 4: Euler, Modified Euler, and Runge-Kutta Order Four Approximation
+
+[details](p4_instructions.txt) 
+
+[source](project4.py)
+
 ---
-* project 5: Modified Crout Factorization Algorithm
-  * [:pencil:](p5_instructions.txt) [:hammer:](project5.py)
+project 5: Modified Crout Factorization Algorithm
+
+[details](p5_instructions.txt) 
+
+[source](project5.py)
