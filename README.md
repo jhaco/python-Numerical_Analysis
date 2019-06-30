@@ -1,5 +1,5 @@
 ## MATH 417 Numerical Analysis
-###### Projects for MATH 417 Numerical Analysis in python
+###### Projects for MATH 417 Numerical Analysis in Python
 ---
 project 1: Fixed-Point Iteration Method
 
